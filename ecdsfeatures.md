@@ -7,3 +7,4 @@ requirement
  Ensures high security on the Customer transaction details 
  Logs all the activities while shipment
  Facilitate scanning on the shipped goods to avoid any damages or misplacement of goods.
+[whole ecds sample.pdf](https://github.com/shanthagomathi/ECDS/files/10148090/whole.ecds.sample.pdf)
